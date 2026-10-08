@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=abenezerlb&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ---
 
-# 🛠 Tech Stack (Animated)
+# 🛠 Tech Stack 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/>
