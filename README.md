@@ -1,96 +1,201 @@
 <div align="center">
 
-# 👋 Hi, I'm Abenezer
+# 👋 Hi, I'm Abenezer Libamu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Learner;Always+Learning+New+Things" />
+### Full-Stack Developer • Cybersecurity Learner • Software Builder
 
-### Building secure & scalable applications with Rust, TypeScript, and AI.
+I build web applications, APIs, and developer-focused projects with a strong interest in **backend engineering, security, and systems programming**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abenezerlb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<a href="https://github.com/abenezerlb">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:abenezerlibamu421@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
-- 💻 Full Stack Developer  
-- 🔐 Cybersecurity Enthusiast  
-- 🤖 AI & Machine Learning Explorer  
-- 🌱 Learning NestJS, Docker, Rust, Python  
-- 🎯 Goal: Build scalable software & security tools  
-- ⚡ Fun fact: I love solving CTF challenges  
+## 🧑‍💻 About Me
+
+I'm a self-taught developer focused on building practical software and continuously improving my engineering skills.
+
+* 💻 Full-Stack Web Development
+* ⚙️ Backend & API Development
+* 🔐 Cybersecurity & Network Security
+* 🦀 Learning Rust and systems programming
+* 🐹 Exploring Go for backend development
+* 🐳 Docker, Linux, Git & modern development workflows
+* 🧠 Interested in AI-assisted software development
+* 🧩 Enjoy building projects and solving technical problems
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
-</p>
+```text
+TypeScript / Node.js
+        ↓
+NestJS + PostgreSQL
+        ↓
+React / React Native
+        ↓
+Docker + Linux
+        ↓
+Rust + Go
+        ↓
+Cybersecurity
+```
 
----
-
-# 📊 GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+Currently improving my skills in **backend architecture, secure application development, networking, and systems programming**.
 
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+## 🛠️ Tech Stack
 
----
+### Languages
 
-# 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 🚀 Featured Projects
-- 🔐 [Authentication API](https://github.com/YOUR_USERNAME/auth-api) – Secure login & JWT-based authentication  
-- 🌐 [Full Stack SaaS](https://github.com/YOUR_USERNAME/saas-app) – Scalable SaaS platform with Next.js & NestJS  
-- 🤖 [AI Projects](https://github.com/YOUR_USERNAME/ai-projects) – Machine learning experiments & AI tools  
-- 🛡️ [Cybersecurity Tools](https://github.com/YOUR_USERNAME/security-tools) – Scripts & utilities for security testing  
-
----
-
-# 🌍 Connect With Me
 <p>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/></a>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,cs&perline=6" />
 </p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=6" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&perline=6" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux&perline=6" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+I'm developing practical cybersecurity knowledge alongside software engineering.
+
+Areas I'm currently exploring:
+
+* 🌐 Networking & infrastructure security
+* 🔎 OSINT & reconnaissance
+* 🛡️ Intrusion detection
+* 🏢 Active Directory security
+* 🔥 pfSense & Suricata
+* 🧪 Security testing and CTF-style problem solving
+* 🔑 Authentication and secure API design
+
+---
+
+## 🚧 What I'm Building
+
+### 🛍️ Adulis
+
+A social-commerce platform designed around creators and sellers.
+
+**Focus:** marketplace operations, seller tools, mobile experiences, payments, and backend systems.
+
+**Stack:** React Native • TypeScript • NestJS • PostgreSQL • Redis • Docker
+
+---
+
+### 🧩 Nehemiah Autism Center Website
+
+A website built for the Nehemiah Autism Center, including a donation experience and direct payment integration.
+
+**Focus:** practical frontend development, user experience, and real-world deployment.
+
+---
+
+### 🧪 VIN Check Ethiopia
+
+An early-stage project exploring vehicle VIN lookup and related automotive information.
+
+**Focus:** API integration, backend development, and product experimentation.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abenezerlb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abenezerlb&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=abenezerlb&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abenezerlb&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Goals
+
+```text
+Build better software
+       ↓
+Understand systems deeply
+       ↓
+Write secure code
+       ↓
+Master backend engineering
+       ↓
+Become a stronger security-minded engineer
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/abenezerlb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:abenezerlibamu421@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+### 💡 Build. Break. Learn. Improve.
+
+⭐ Thanks for visiting my profile!
 
 </div>
