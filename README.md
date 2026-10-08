@@ -198,7 +198,7 @@ Scripts & utilities for security testing
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer&animation=twinkling" width="100%"/>
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
