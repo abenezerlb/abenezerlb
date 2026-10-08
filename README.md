@@ -6,7 +6,7 @@
 
 <br>
 
-### Building secure & scalable applications with Rust, TypeScript, and AI.
+### Building modern web applications with TypeScript while exploring cybersecurity, AI, and systems programming.
 
 <br>
 
@@ -26,7 +26,7 @@
 * 🤖 AI & Machine Learning Explorer
 * 🌱 Learning NestJS, Docker, Rust, Python
 * 🎯 Goal: Build scalable software & security tools
-* ⚡ Fun fact: I love solving CTF challenges
+
 
 ---
 
