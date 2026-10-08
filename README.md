@@ -18,13 +18,6 @@
 
 # 🚀 About Me
 
-<div align="center">
-
-|            💻            |              🔐              |          🤖          |          🌱         |               🎯               |          ⚡         |
-| :----------------------: | :--------------------------: | :------------------: | :-----------------: | :----------------------------: | :----------------: |
-| **Full Stack Developer** | **Cybersecurity Enthusiast** | **AI & ML Explorer** | **Always Learning** | **Building Scalable Software** | **CTF Challenges** |
-
-</div>
 
 <br>
 
@@ -37,44 +30,22 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Stack (Animated)
 
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=typescript,python,rust&theme=dark&perline=6" height="65"/>
-
-<br><br>
-
-### ⚛️ Frontend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs&theme=dark&perline=6" height="65"/>
-
-<br><br>
-
-### 🗄️ Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,docker,linux&theme=dark&perline=6" height="65"/>
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=6" height="65"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-Expertise%20in%20Progress-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-Learning-black?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Exploring-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+</p>
 ---
 
 # 📊 GitHub Stats
