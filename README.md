@@ -22,7 +22,7 @@
 
 ---
 
-# 🛠 Tech Stack (Animated)
+# 🛠 Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/>
