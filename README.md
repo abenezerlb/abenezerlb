@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abenezer
+#  Hi, I'm Abenezer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI+Learner;Always+Learning+New+Things" />
 
@@ -8,7 +8,6 @@
 
 Building modern web applications with TypeScript while exploring cybersecurity, AI, and systems programming.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
